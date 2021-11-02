@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: 6b8231e5e6fd20f4ca222cf0add28489
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6023965159102544220
+    second: "Tileset 1 (marr\xF3n-anaranjado)_0"
+  - first:
+      213: 3256661679695480105
+    second: "Tileset 1 (marr\xF3n-anaranjado)_1"
+  - first:
+      213: -6572223673332295874
+    second: "Tileset 1 (marr\xF3n-anaranjado)_2"
+  - first:
+      213: -8754156028819802535
+    second: "Tileset 1 (marr\xF3n-anaranjado)_3"
+  - first:
+      213: -8962376597918853894
+    second: "Tileset 1 (marr\xF3n-anaranjado)_4"
+  - first:
+      213: 106501123119132418
+    second: "Tileset 1 (marr\xF3n-anaranjado)_5"
+  - first:
+      213: -9199853566245824662
+    second: "Tileset 1 (marr\xF3n-anaranjado)_6"
+  - first:
+      213: 2584501016797521680
+    second: "Tileset 1 (marr\xF3n-anaranjado)_7"
+  - first:
+      213: 7534933812559113853
+    second: "Tileset 1 (marr\xF3n-anaranjado)_8"
+  - first:
+      213: -3877905500996316705
+    second: "Tileset 1 (marr\xF3n-anaranjado)_9"
+  - first:
+      213: 8031850791656288889
+    second: "Tileset 1 (marr\xF3n-anaranjado)_10"
+  - first:
+      213: -8083730289701488279
+    second: "Tileset 1 (marr\xF3n-anaranjado)_11"
+  - first:
+      213: -3865962297334886220
+    second: "Tileset 1 (marr\xF3n-anaranjado)_12"
+  - first:
+      213: -2632893512987008380
+    second: "Tileset 1 (marr\xF3n-anaranjado)_13"
+  - first:
+      213: -3630651511701144355
+    second: "Tileset 1 (marr\xF3n-anaranjado)_14"
+  - first:
+      213: -506551152340605732
+    second: "Tileset 1 (marr\xF3n-anaranjado)_15"
+  - first:
+      213: -2992469051924201198
+    second: "Tileset 1 (marr\xF3n-anaranjado)_16"
+  - first:
+      213: 674841022704764755
+    second: "Tileset 1 (marr\xF3n-anaranjado)_17"
+  - first:
+      213: -3149020935592034596
+    second: "Tileset 1 (marr\xF3n-anaranjado)_18"
+  - first:
+      213: -2934739984250668290
+    second: "Tileset 1 (marr\xF3n-anaranjado)_19"
+  - first:
+      213: -947758374394733901
+    second: "Tileset 1 (marr\xF3n-anaranjado)_20"
+  - first:
+      213: -1914714506195036972
+    second: "Tileset 1 (marr\xF3n-anaranjado)_21"
+  - first:
+      213: 8771738216778299443
+    second: "Tileset 1 (marr\xF3n-anaranjado)_22"
+  - first:
+      213: 5952421839261242269
+    second: "Tileset 1 (marr\xF3n-anaranjado)_23"
+  - first:
+      213: 6990307148809589994
+    second: "Tileset 1 (marr\xF3n-anaranjado)_24"
+  - first:
+      213: -8405131133093861029
+    second: "Tileset 1 (marr\xF3n-anaranjado)_25"
+  - first:
+      213: 1573571325249252489
+    second: "Tileset 1 (marr\xF3n-anaranjado)_26"
+  - first:
+      213: -5256025440580436180
+    second: "Tileset 1 (marr\xF3n-anaranjado)_27"
+  - first:
+      213: -7048529630199206906
+    second: "Tileset 1 (marr\xF3n-anaranjado)_28"
+  - first:
+      213: -5147296444076903944
+    second: "Tileset 1 (marr\xF3n-anaranjado)_29"
+  - first:
+      213: -1670057561504515836
+    second: "Tileset 1 (marr\xF3n-anaranjado)_30"
+  - first:
+      213: 1891057627331490525
+    second: "Tileset 1 (marr\xF3n-anaranjado)_31"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a60d58aa93966ca0800000000000000
+      internalID: -6023965159102544220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_1"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 442
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92540eb0b8cf13d20800000000000000
+      internalID: 3256661679695480105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_2"
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 442
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e379d96e365cac4a0800000000000000
+      internalID: -6572223673332295874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_3"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 442
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956f9d9297df28680800000000000000
+      internalID: -8754156028819802535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_4"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 442
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4d5c908fd3f9380800000000000000
+      internalID: -8962376597918853894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_5"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 442
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f22bb053e5a7100800000000000000
+      internalID: 106501123119132418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_6"
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 442
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a679e46aced835080800000000000000
+      internalID: -9199853566245824662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_7"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0172ad34bfdfdd320800000000000000
+      internalID: 2584501016797521680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_8"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 332
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e6aa77166719860800000000000000
+      internalID: 7534933812559113853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_9"
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 332
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1d49c2e79ee2ac0800000000000000
+      internalID: -3877905500996316705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_10"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 332
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972fc9d8dbdd67f60800000000000000
+      internalID: 8031850791656288889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_11"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 332
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969f6468122d0df80800000000000000
+      internalID: -8083730289701488279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_12"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 332
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b01d48f5c7595ac0800000000000000
+      internalID: -3865962297334886220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_13"
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 332
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482aaf2bc45167bd0800000000000000
+      internalID: -2632893512987008380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_14"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc71d5afa55d9dc0800000000000000
+      internalID: -3630651511701144355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_15"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 222
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd46c28296e58f8f0800000000000000
+      internalID: -506551152340605732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_16"
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 222
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21145b6804d9876d0800000000000000
+      internalID: -2992469051924201198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_17"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 222
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357cd2ea5548d5900800000000000000
+      internalID: 674841022704764755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_18"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 222
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeb4cfa42e6c44d0800000000000000
+      internalID: -3149020935592034596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_19"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 222
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa7a928885b547d0800000000000000
+      internalID: -2934739984250668290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_20"
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 222
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3badc49a7c2e8d2f0800000000000000
+      internalID: -947758374394733901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_21"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d415fb1d419d65e0800000000000000
+      internalID: -1914714506195036972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_22"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 112
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338f9c9fe697bb970800000000000000
+      internalID: 8771738216778299443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_23"
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 112
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93917220204b9250800000000000000
+      internalID: 5952421839261242269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_24"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 112
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae45babc05f820160800000000000000
+      internalID: 6990307148809589994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_25"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 112
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b592d5944c9fa5b80800000000000000
+      internalID: -8405131133093861029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_26"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 112
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ce83e78c276d510800000000000000
+      internalID: 1573571325249252489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_27"
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 112
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f79cb95b8de07b0800000000000000
+      internalID: -5256025440580436180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_28"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c292365a79e2e90800000000000000
+      internalID: -7048529630199206906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_29"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f13a29d7212198b0800000000000000
+      internalID: -5147296444076903944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_30"
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40971140f73c2d8e0800000000000000
+      internalID: -1670057561504515836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset 1 (marr\xF3n-anaranjado)_31"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2f2ee84e26e3a10800000000000000
+      internalID: 1891057627331490525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
