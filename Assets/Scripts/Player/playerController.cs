@@ -104,7 +104,7 @@ public class playerController : MonoBehaviour
     {
         if (_isGrounded && !_hasJumped)
         {
-            _yVelocity = _jumpHigh * Time.deltaTime;
+            _yVelocity = _jumpHigh * Time.fixedDeltaTime;
             _hasJumped = true;
         }
     }
@@ -149,7 +149,7 @@ public class playerController : MonoBehaviour
     }
     public void bounce()
     {
-        _yVelocity = _bounceSpeed*Time.deltaTime;
+        _yVelocity = _bounceSpeed*Time.fixedDeltaTime;
         _hasJumped = false;
     }
    

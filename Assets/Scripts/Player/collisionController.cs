@@ -54,10 +54,7 @@ public class collisionController : MonoBehaviour
         #region Rebote
         for (int i = 0; i < _playerBounceCollider.OverlapCollider(_groundFilter, _overlapColliders); i++)
         {
-            if (collision.gameObject.layer == 6)
-            {
-                _playerController.bounce();
-            }
+            _playerController.bounce();
         }
         #endregion
 

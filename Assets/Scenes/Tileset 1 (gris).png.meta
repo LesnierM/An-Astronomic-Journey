@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 59e6730d5908fb642adcc84f29c8735e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7705670738889613199
+    second: Tileset 1 (gris)_0
+  - first:
+      213: 7727933169114599099
+    second: Tileset 1 (gris)_1
+  - first:
+      213: -5322064720890543158
+    second: Tileset 1 (gris)_2
+  - first:
+      213: 6704959495713339323
+    second: Tileset 1 (gris)_3
+  - first:
+      213: -1202520545852512567
+    second: Tileset 1 (gris)_4
+  - first:
+      213: -920428058027021732
+    second: Tileset 1 (gris)_5
+  - first:
+      213: 6180241047740199210
+    second: Tileset 1 (gris)_6
+  - first:
+      213: -2691721868778694754
+    second: Tileset 1 (gris)_7
+  - first:
+      213: 7761840905365326704
+    second: Tileset 1 (gris)_8
+  - first:
+      213: -9148012133132155461
+    second: Tileset 1 (gris)_9
+  - first:
+      213: -5571113590085912847
+    second: Tileset 1 (gris)_10
+  - first:
+      213: -7682094542054380377
+    second: Tileset 1 (gris)_11
+  - first:
+      213: 7030926778748792698
+    second: Tileset 1 (gris)_12
+  - first:
+      213: 189959905205120012
+    second: Tileset 1 (gris)_13
+  - first:
+      213: -3611615810798133698
+    second: Tileset 1 (gris)_14
+  - first:
+      213: 5393781363769120890
+    second: Tileset 1 (gris)_15
+  - first:
+      213: 523513623753075821
+    second: Tileset 1 (gris)_16
+  - first:
+      213: 612223269399758566
+    second: Tileset 1 (gris)_17
+  - first:
+      213: 1495243258392471171
+    second: Tileset 1 (gris)_18
+  - first:
+      213: -8983712621670711277
+    second: Tileset 1 (gris)_19
+  - first:
+      213: 8726588873918194015
+    second: Tileset 1 (gris)_20
+  - first:
+      213: 4637701661176598125
+    second: Tileset 1 (gris)_21
+  - first:
+      213: -4777553507986424418
+    second: Tileset 1 (gris)_22
+  - first:
+      213: 1187439349393787398
+    second: Tileset 1 (gris)_23
+  - first:
+      213: 4139619610455296012
+    second: Tileset 1 (gris)_24
+  - first:
+      213: 71187109905509808
+    second: Tileset 1 (gris)_25
+  - first:
+      213: -7639940941656013648
+    second: Tileset 1 (gris)_26
+  - first:
+      213: -515669792975850953
+    second: Tileset 1 (gris)_27
+  - first:
+      213: 966634647258203585
+    second: Tileset 1 (gris)_28
+  - first:
+      213: -4112512494959084104
+    second: Tileset 1 (gris)_29
+  - first:
+      213: -8919444459219008168
+    second: Tileset 1 (gris)_30
+  - first:
+      213: 7947700551931515150
+    second: Tileset 1 (gris)_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 108
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170ec541a45ff0590800000000000000
+      internalID: -7705670738889613199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 440
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbec801e5422f3b60800000000000000
+      internalID: 7727933169114599099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 440
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac34ea7755a3426b0800000000000000
+      internalID: -5322064720890543158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 440
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7306f032dcc0d50800000000000000
+      internalID: 6704959495713339323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 440
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c62a5d4fe9cf4fe0800000000000000
+      internalID: -1202520545852512567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 440
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a2fffce8bf933f0800000000000000
+      internalID: -920428058027021732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 440
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21b7d41d70a4c550800000000000000
+      internalID: 6180241047740199210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e979b41c83515aad0800000000000000
+      internalID: -2691721868778694754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 330
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b856fed2997bb60800000000000000
+      internalID: 7761840905365326704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 330
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5c1b3ee6bbb0180800000000000000
+      internalID: -9148012133132155461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 330
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6f393f4bd6fa2b0800000000000000
+      internalID: -5571113590085912847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 330
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aca1e927b7b36590800000000000000
+      internalID: -7682094542054380377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_12
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 330
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f6a1167aed29160800000000000000
+      internalID: 7030926778748792698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 330
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c615ff68fd2a200800000000000000
+      internalID: 189959905205120012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e51342e86f0edc0800000000000000
+      internalID: -3611615810798133698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 220
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a789497a29f8ada40800000000000000
+      internalID: 5393781363769120890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c21eafdd4e34700800000000000000
+      internalID: 523513623753075821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 220
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e60dcfd1dd0f7800800000000000000
+      internalID: 612223269399758566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 220
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386e74542db20c410800000000000000
+      internalID: 1495243258392471171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_19
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 220
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310cf15e7f0735380800000000000000
+      internalID: -8983712621670711277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_20
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 220
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5125ca68521b1970800000000000000
+      internalID: 8726588873918194015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e8ba8d61d6c5040800000000000000
+      internalID: 4637701661176598125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d3c05a568b2bdb0800000000000000
+      internalID: -4777553507986424418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 110
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a00f40cc1aa7010800000000000000
+      internalID: 1187439349393787398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 110
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08cd626a12e27930800000000000000
+      internalID: 4139619610455296012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_25
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 110
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd218e9c48ecf000800000000000000
+      internalID: 71187109905509808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_26
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 110
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b441a3113a79f590800000000000000
+      internalID: -7639940941656013648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_27
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 110
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73276403e09f7d8f0800000000000000
+      internalID: -515669792975850953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c50969171d2a6d00800000000000000
+      internalID: 966634647258203585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdbb93ccab6de6c0800000000000000
+      internalID: -4112512494959084104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_30
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855cc668584c73480800000000000000
+      internalID: -8919444459219008168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset 1 (gris)_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 108
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01dd031b87eb4e60800000000000000
+      internalID: 7947700551931515150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
